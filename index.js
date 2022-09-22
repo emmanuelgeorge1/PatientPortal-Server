@@ -36,7 +36,7 @@ const startApp = async () => {
       badge: true,
     });
     //start listening to the port
-    app.listen(PORT, () => {
+    app.listen(process.env.PORT || PORT, () => {
       success({ message: `Listening on PORT  ${PORT}`, badge: true });
     });
   } catch (err) {
