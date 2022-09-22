@@ -1,0 +1,33 @@
+git clone:- open your git acc on browser then click "create repository", type name and then crate it
+so this crated git clone will be avaliable to the local repository
+
+so if we crate a local program it will only be avaliable to us if we need to add it to the git hub then we must use "git push"
+then that file will be avaliable to anyone if we made that public, but inorder for other machine to access this program it need to perform
+operation called "git pull"
+
+
+local storage ==> stageing area ==> local repository ==> remote repository
+     
+
+
+
+command for initialize:= git init                              
+
+command for listing and untracked file:= git status
+
+command for adding all untracked file to stageing area:= git add -A (-A means all file if
+ only one file then just type its filename not need of symbol " - ")
+
+command for adding file to local repository:= git commit -m "Message u want to give"
+
+command for creating remote repository:= first copy the url(which was created first ie
+using "create repository")
+then  :=  git remote add "filename" url
+
+command for adding local file to remote repository:git push "filename" master
+
+command for checking if its added:= git remote -v
+
+
+
+

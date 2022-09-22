@@ -1,0 +1,18 @@
+{
+  "configurations": [
+    {
+      "name": "Attach to Chrome",
+      "port": 9222,
+      "request": "attach",
+      "type": "pwa-chrome",
+      "webRoot": "${workspaceFolder}"
+    },
+    {
+      "type": "pwa-chrome",
+      "name": "http://localhost:5001/api/profile/Approval/6199548a16be688475274b30/619fe37048f6807090150b0f",
+      "request": "launch",
+      "url": "http://localhost:5001/api/profile/Approval/6199548a16be688475274b30/619fe37048f6807090150b0f",
+      "bearer-token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyX2lkIjoiNjE2MmU3ZDg3MzI2ZWU1NmMwNjBmMTAxIiwiZW1haWwiOiJnZW9yZ2VhZG1pbkBnbWFpbC5jb20iLCJyb2xlIjoiYWRtaW4iLCJuYW1lIjoiZ2VvcmdlIiwiZG9iIjoiMTk5NS0wNi0yMiIsInBob25lIjo5ODc2NTQxODcsImlhdCI6MTYzNjk5MTA5NSwiZXhwIjoxNjM3NTk1ODk1fQ.bO0X5cy0QBoMKfTG9IZZT15yrkQtiaZnfHf6VNi7caY"
+    }
+  ]
+}

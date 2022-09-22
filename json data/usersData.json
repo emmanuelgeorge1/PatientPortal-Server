@@ -1,0 +1,568 @@
+[{
+  "_id": {
+    "$oid": "61994de9798354c481f2cb1e"
+  },
+  "name": "  Vamsi J",
+  "email": "vamsi@gmail.com",
+  "password": "$2b$12$ej6iE1dhqR8iGTgat6lEkuifYJaCwoe/uMlFNo0qgcdqqTGXreYZ6",
+  "dob": "20-05_1992",
+  "phone": 9559491170,
+  "role": "Patient",
+  "createdAt": {
+    "$date": "2021-11-20T19:35:05.633Z"
+  },
+  "updatedAt": {
+    "$date": "2021-11-20T19:35:05.633Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61994f5d798354c481f2cb35"
+  },
+  "name": "Emmanuel George",
+  "email": "emmanuel@gmail.com",
+  "password": "$2b$12$N.8K4j3jitnCGGn5bnTaAOYvhYs4T9JS6Uq52SfEiID2RiFmWXHUK",
+  "dob": "20-05_1992",
+  "phone": 9559491170,
+  "role": "admin",
+  "createdAt": {
+    "$date": "2021-11-20T19:41:17.408Z"
+  },
+  "updatedAt": {
+    "$date": "2021-11-20T19:41:17.408Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6199528db80b52eed3c10c6d"
+  },
+  "name": "Varun M",
+  "email": "varun@gmail.com",
+  "speciality": "Dermatologist",
+  "password": "$2b$12$ZnEcZwRTGuEokjI9J8IVHO4LtP36.hmsZhjycB3auKahwOyaf7Yp6",
+  "dob": "20-05_1988",
+  "phone": 9519391470,
+  "role": "physician",
+  "createdAt": {
+    "$date": "2021-11-20T19:54:53.674Z"
+  },
+  "updatedAt": {
+    "$date": "2021-11-20T19:54:53.674Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61995293b80b52eed3c10c70"
+  },
+  "name": "Haritha K",
+  "email": "haritha@gmail.com",
+  "speciality": "Paediatrics",
+  "password": "$2b$12$t7o0aXv4KNfhOKyNGvGrMe9uLSIomswQQ3Ac0tZNCQ9XCUUit2aMu",
+  "dob": "20-05_1988",
+  "phone": 9519391470,
+  "role": "physician",
+  "createdAt": {
+    "$date": "2021-11-20T19:54:59.491Z"
+  },
+  "updatedAt": {
+    "$date": "2021-11-20T19:54:59.491Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61995298b80b52eed3c10c73"
+  },
+  "name": "Mohan ",
+  "email": "mohan@gmail.com",
+  "speciality": "Cardiology",
+  "password": "$2b$12$mt5FIix2Ejj0l5q3HkdtGuEtp2RVdTytbE/Glc..CUqxbvxEJMaoC",
+  "dob": "20-05_1988",
+  "phone": 9519391470,
+  "role": "physician",
+  "createdAt": {
+    "$date": "2021-11-20T19:55:04.005Z"
+  },
+  "updatedAt": {
+    "$date": "2021-11-20T19:55:04.005Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61995332941438834ee3071d"
+  },
+  "name": "Pooja V",
+  "email": "pooja@gmail.com",
+  "speciality": "Cardiology",
+  "password": "$2b$12$qmmnD6JQCcP89DsxMvoz2ONOxMY8/iKeRm3EwSoHmG5Zzu6qVF5QK",
+  "dob": "20-05_1988",
+  "phone": 9519391470,
+  "role": "physician",
+  "createdAt": {
+    "$date": "2021-11-20T19:57:38.111Z"
+  },
+  "updatedAt": {
+    "$date": "2021-11-20T19:57:38.111Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6199537e383218038caa4d91"
+  },
+  "name": "Krithika S",
+  "email": "krithika@gmail.com",
+  "speciality": "General practitioner",
+  "password": "$2b$12$xRtTo0dYIQiebqnSnsEu7Ol1cfldUaWtamSaxQj86sDInn8009jNW",
+  "dob": "20-05_1988",
+  "phone": 9519391470,
+  "role": "physician",
+  "createdAt": {
+    "$date": "2021-11-20T19:58:54.205Z"
+  },
+  "updatedAt": {
+    "$date": "2021-11-20T19:58:54.205Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61995382383218038caa4d94"
+  },
+  "name": "Farz Shak",
+  "email": "faraz@gmail.com",
+  "speciality": "General practitioner",
+  "password": "$2b$12$7u.il0e7Kgcf1Gnd0G9Yi.bOql6gIYo.xZi2t1uWdOvPNL/mHXcS6",
+  "dob": "20-05_1988",
+  "phone": 9519391470,
+  "role": "physician",
+  "createdAt": {
+    "$date": "2021-11-20T19:58:58.828Z"
+  },
+  "updatedAt": {
+    "$date": "2021-11-20T19:58:58.828Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6199548a16be688475274b30"
+  },
+  "name": "  Lalu John",
+  "email": "lalu@gmail.com",
+  "password": "$2b$12$AkoiqqoyOuNK2wNGB7TLHeGcW.uoMf/UccAQzsRFAogthZKXjCRGa",
+  "dob": "20-05_1992",
+  "phone": 9559491170,
+  "role": "Patient",
+  "createdAt": {
+    "$date": "2021-11-20T20:03:22.950Z"
+  },
+  "updatedAt": {
+    "$date": "2021-11-25T19:26:40.175Z"
+  },
+  "__v": 10,
+  "appointment": [
+    {
+      "speciality": "Dermatologist",
+      "physician": "Varun M",
+      "date": "2021-11-29T19:26:33.000Z",
+      "_id": {
+        "$oid": "619fe37048f6807090150b0f"
+      }
+    },
+    {
+      "speciality": "Dermatologist",
+      "physician": "Varun M",
+      "date": "2021-11-29T19:24:56.000Z",
+      "_id": {
+        "$oid": "619fe31548f6807090150aee"
+      }
+    },
+    {
+      "speciality": "Pathology",
+      "physician": "Jahed Kahn",
+      "date": "2021-12-15T19:20:57.000Z",
+      "_id": {
+        "$oid": "619fe22648f6807090150ab2"
+      }
+    },
+    {
+      "speciality": "Pathology",
+      "physician": "Jahed Kahn",
+      "date": "2021-11-29T19:20:04.000Z",
+      "_id": {
+        "$oid": "619fe1ea48f6807090150a97"
+      }
+    },
+    {
+      "speciality": "Pathology",
+      "physician": "Jahed Kahn",
+      "date": "2021-11-29T19:19:50.000Z",
+      "_id": {
+        "$oid": "619fe1dc48f6807090150a7f"
+      }
+    },
+    {
+      "speciality": "Dermatologist",
+      "physician": "Varun M",
+      "date": "2021-11-29T19:18:51.000Z",
+      "_id": {
+        "$oid": "619fe1a548f6807090150a6a"
+      }
+    },
+    {
+      "speciality": "Pathology",
+      "physician": "Jahed Kahn",
+      "date": "2021-11-29T19:17:49.000Z",
+      "_id": {
+        "$oid": "619fe16548f6807090150a58"
+      }
+    },
+    {
+      "speciality": "General surgery",
+      "physician": "Jaleeb Mohamad",
+      "date": "2021-11-29T19:10:30.000Z",
+      "_id": {
+        "$oid": "619fdfad48f6807090150a44"
+      }
+    },
+    {
+      "speciality": "General surgery",
+      "physician": "Haritha K",
+      "date": "2021-11-28T19:42:15.000Z",
+      "_id": {
+        "$oid": "619e95dbd0677a9764036095"
+      }
+    },
+    {
+      "speciality": "Paediatrics",
+      "physician": "Haritha K",
+      "date": "2021-11-28T19:42:15.000Z",
+      "_id": {
+        "$oid": "619e95a3d0677a976403608f"
+      }
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "619954a316be688475274b34"
+  },
+  "name": "  Vyshak T",
+  "email": "vyshak@gmail.com",
+  "password": "$2b$12$6rlWsBo46POaKottDLHCD.Gyrk835tjUfN6A.DfnLHCvKrb3jtI/.",
+  "dob": "20-05_1992",
+  "phone": 9559491170,
+  "role": "Patient",
+  "createdAt": {
+    "$date": "2021-11-20T20:03:47.854Z"
+  },
+  "updatedAt": {
+    "$date": "2021-11-27T14:19:45.395Z"
+  },
+  "__v": 2,
+  "appointment": [
+    {
+      "speciality": "General surgery",
+      "physician": "Jaleeb Mohamad",
+      "date": "2021-11-30T14:19:39.000Z",
+      "_id": {
+        "$oid": "61a23e81de782c419ba2ad9c"
+      }
+    },
+    {
+      "speciality": "Cardiology",
+      "physician": "Pooja V",
+      "date": "11/25/2021 5:32 PM",
+      "_id": {
+        "$oid": "619e17a0daf528671c9131d1"
+      }
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "619954bf16be688475274b3b"
+  },
+  "name": "  Ashik Kp",
+  "email": "ashik@gmail.com",
+  "password": "$2b$12$pbE.Xy8g/Lpgl5DQmlpcV.PhJOy.YUB00qQhMGfcu6vIadQ1GUoTe",
+  "dob": "20-05_1997",
+  "phone": 9559491170,
+  "role": "Patient",
+  "createdAt": {
+    "$date": "2021-11-20T20:04:15.231Z"
+  },
+  "updatedAt": {
+    "$date": "2021-11-28T16:48:00.893Z"
+  },
+  "__v": 45,
+  "appointment": [
+    {
+      "speciality": "Pathology",
+      "physician": "Jahed Kahn",
+      "date": "2021-11-30T16:47:54.000Z",
+      "_id": {
+        "$oid": "61a3b2c0b99d29d98b95454f"
+      }
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "619955df16be688475274b56"
+  },
+  "name": "  Joseph Franco",
+  "email": "joseph@gmail.com",
+  "password": "$2b$12$mvUzoK5prkNj51B4xAu5c.SDvQQpb.7q0T6sa4qoRBZ9mEMKUJ7Ai",
+  "dob": "20-05_1995",
+  "phone": 9559491170,
+  "role": "Patient",
+  "createdAt": {
+    "$date": "2021-11-20T20:09:03.896Z"
+  },
+  "updatedAt": {
+    "$date": "2021-12-01T08:59:15.385Z"
+  },
+  "__v": 88,
+  "appointment": [
+    {
+      "speciality": "Dermatologist",
+      "physician": "Lavanaya V",
+      "date": "2021-12-02T08:54:01.000Z",
+      "appointment_status": "Approved",
+      "_id": {
+        "$oid": "61a7382ebc5e1fa8506fd30f"
+      }
+    },
+    {
+      "speciality": "Dermatologist",
+      "physician": "Lavanaya V",
+      "date": "2021-11-30T20:29:24.000Z",
+      "appointment_status": "Approved",
+      "_id": {
+        "$oid": "61a689aa89a2fe6eee3e44e5"
+      }
+    },
+    {
+      "speciality": "Dermatologist",
+      "physician": "Lavanaya V",
+      "date": "2021-12-01T20:28:14.000Z",
+      "appointment_status": "pending",
+      "_id": {
+        "$oid": "61a689668d7d982f8804231c"
+      }
+    },
+    {
+      "speciality": "Paediatrics",
+      "physician": "Haritha K",
+      "date": "2021-12-05T13:09:29.000Z",
+      "appointment_status": "pending",
+      "_id": {
+        "$oid": "61a622908fc3237cca00c59c"
+      }
+    },
+    {
+      "speciality": "Paediatrics",
+      "physician": "Haritha K",
+      "date": "2021-12-01T12:47:03.000Z",
+      "appointment_status": "pending",
+      "_id": {
+        "$oid": "61a61d5221f69b833c9e2036"
+      }
+    },
+    {
+      "speciality": "Cardiology",
+      "physician": "Pooja V",
+      "date": "2021-12-01T09:07:05.000Z",
+      "appointment_status": "pending",
+      "_id": {
+        "$oid": "61a5e9e221f69b833c9e1ca2"
+      }
+    },
+    {
+      "speciality": "Dermatologist",
+      "physician": "Varun M",
+      "date": "2021-11-30T10:38:33.000Z",
+      "appointment_status": "pending",
+      "_id": {
+        "$oid": "61a4adae1247da1d72b2e6d4"
+      }
+    },
+    {
+      "speciality": "Dermatologist",
+      "physician": "Lavanaya V",
+      "date": "2021-12-01T08:11:10.000Z",
+      "appointment_status": "pending",
+      "_id": {
+        "$oid": "61a48b2a6cefd2b6014c7b07"
+      }
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "619956bd16be688475274b59"
+  },
+  "name": "  Adithya S",
+  "email": "adhitya@gmail.com",
+  "password": "$2b$12$.doxRFpQjzX8UwlHXDHox.cssj1bGr0HGRWCJV4mZAzmCtz1U77Ay",
+  "dob": "20-05_1995",
+  "phone": 9559491170,
+  "role": "Patient",
+  "createdAt": {
+    "$date": "2021-11-20T20:12:45.318Z"
+  },
+  "updatedAt": {
+    "$date": "2021-11-27T14:52:26.942Z"
+  },
+  "__v": 35,
+  "appointment": [
+    {
+      "speciality": "Dermatologist",
+      "physician": "Varun M",
+      "date": "2021-11-30T14:52:20.000Z",
+      "_id": {
+        "$oid": "61a2462ade782c419ba2b0fc"
+      }
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "619956d616be688475274b5c"
+  },
+  "name": "  Athul Aji",
+  "email": "athul@gmail.com",
+  "password": "$2b$12$uzvkj3U8FdL9fE/F9hBPCu3u4zmKLSuyw5/aZkoOEPX1pPBvp2PZG",
+  "dob": "20-05_1995",
+  "phone": 9559491170,
+  "role": "Patient",
+  "createdAt": {
+    "$date": "2021-11-20T20:13:10.387Z"
+  },
+  "updatedAt": {
+    "$date": "2021-12-01T08:09:17.157Z"
+  },
+  "__v": 30,
+  "appointment": [
+    {
+      "speciality": "Paediatrics",
+      "physician": "Haritha K",
+      "date": "2021-12-02T11:05:13.000Z",
+      "appointment_status": "pending",
+      "_id": {
+        "$oid": "61a6057521f69b833c9e1f23"
+      }
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "61996a1916be688475274bc7"
+  },
+  "name": "Lavanaya V",
+  "email": "lavanaya@gmail.com",
+  "speciality": "Dermatologist",
+  "password": "$2b$12$cwW71RtNzLJlEea2k0pFvebY01pf7ivJba8TeXBtTll7aseAPAtpG",
+  "dob": "20-05_1988",
+  "phone": 9519391470,
+  "role": "physician",
+  "createdAt": {
+    "$date": "2021-11-20T21:35:21.447Z"
+  },
+  "updatedAt": {
+    "$date": "2021-11-20T21:35:21.447Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61996a3916be688475274bd6"
+  },
+  "name": "Jahed Kahn",
+  "email": "jahed@gmail.com",
+  "speciality": "Pathology",
+  "password": "$2b$12$KRjry6ZKdqS0y.I8zlA4QuTQdqw6UhVGXKrdY/3lAQlnkxjX8zwA.",
+  "dob": "20-05_1988",
+  "phone": 9519391470,
+  "role": "physician",
+  "createdAt": {
+    "$date": "2021-11-20T21:35:53.756Z"
+  },
+  "updatedAt": {
+    "$date": "2021-11-20T21:35:53.756Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61996a5116be688475274bdf"
+  },
+  "name": "Jaleeb Mohamad",
+  "email": "jaleeb@gmail.com",
+  "speciality": "General surgery",
+  "password": "$2b$12$7Zg2XPuDuazaU0v7nC5HkeNotriakpJvusqm9TKHQKUYoY2WPmc7y",
+  "dob": "20-05_1988",
+  "phone": 9519391470,
+  "role": "physician",
+  "createdAt": {
+    "$date": "2021-11-20T21:36:17.199Z"
+  },
+  "updatedAt": {
+    "$date": "2021-11-20T21:36:17.199Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "619d01c9d1863e542f979ddc"
+  },
+  "name": "Vishnu Priya",
+  "email": "priya@gmail.com",
+  "password": "$2b$12$Jixow8cF9y7SV8K2Rr7xZuvt/B5bWowXPuev39QVgQasRKaftfq7i",
+  "dob": "2021-11-08",
+  "phone": 987654322,
+  "role": "Patient",
+  "createdAt": {
+    "$date": "2021-11-23T14:59:21.058Z"
+  },
+  "updatedAt": {
+    "$date": "2021-11-30T20:26:09.051Z"
+  },
+  "__v": 7,
+  "appointment": [
+    {
+      "speciality": "Cardiology",
+      "physician": "Pooja V",
+      "date": "11/25/2021 5:32 PM",
+      "appointment_status": "approved",
+      "_id": {
+        "$oid": "61a6878e2b4609b1fb8b3c63"
+      }
+    },
+    {
+      "appointment_status": "pending",
+      "speciality": "General practitioner",
+      "physician": "Krithika S",
+      "date": "2021-11-30T11:53:17.000Z",
+      "_id": {
+        "$oid": "61a0cab4a700275750e9ee7a"
+      }
+    },
+    {
+      "appointment_status": "pending",
+      "speciality": "Dermatologist",
+      "physician": "Varun M",
+      "date": "2021-11-30T11:49:19.000Z",
+      "_id": {
+        "$oid": "61a0c9c4a700275750e9ee4e"
+      }
+    },
+    {
+      "appointment_status": "pending",
+      "speciality": "Dermatologist",
+      "physician": "Varun M",
+      "date": "2021-11-29T11:42:13.000Z",
+      "_id": {
+        "$oid": "61a0c81ba700275750e9ee1e"
+      }
+    },
+    {
+      "appointment_status": "pending",
+      "speciality": "Cardiology",
+      "physician": "Pooja V",
+      "date": "11/25/2021 5:32 PM",
+      "_id": {
+        "$oid": "619e17efdaf528671c9131d5"
+      }
+    }
+  ]
+}]

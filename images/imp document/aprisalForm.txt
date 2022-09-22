@@ -1,0 +1,70 @@
+P:Passion is something that I demonstrate in everything that I do,For example in every training that 
+I have undergone under CitiusTech I have personally worked through each and every concepts and I have even 
+developed a website using the technology that I have trained in (i.e. MongoDB, Express.js,
+Angular & Node.js )
+
+R:Anyone I meet either through training or any other means, I am always respectful to all, Showing compassion and helping others
+ is also one of my qualities , I have helped many of the folks in talent pool while filling Daily Standup Summary sheet and
+clearing the doubts they have any to the best of my knowledge.
+
+O: Believing and practicing the no surprises policy in this company is one of the best system that there is, I will always follow that.
+ For openness to ideas and opinions I like to mention a meeting I had  with Sameer Bandiwadekar for mid year review.
+I showed him the website I created using Mean Stack and he gave me pointers and ideas to implement them and also I started to learn
+ unit testing as per his direction. So I'm always open to new ideas and opinions.
+
+U: For unity I would like to to discuss the meetings we have in Market Talent pool, On every Thursday we try to have a bonding events 
+where we talk about our intrests, hobbies, councerns and lot more depending on the day.
+
+
+D:Depth of understanding and focus on the task at hand is one of the main area I excel in. For example in each of the trainings there were assignments, 
+and depth of understanding really paved the way while completing it and focus on the task at hand enabled me to submit every task on time.
+
+I am prompt on keeping time-sheet & leave request. Assigments & tests that were assigment to me, while in training I have timely and accuratly completed 
+the process on time and also I try to make sure I arrive atleast 5 miniute bofore any meetings that were scheduled.
+
+
+cross-skilling is a very important area in development beacuse of that I aways keep an eye on the lataest technolegies and trends, I'm even in few of the reddit & stackoverflow groups
+ where we can post our queryies and follow the current trends, the main three technologies I follow are Angular, Node.js & MongoDB. 
+The  main goal of PatientPortal website which I have deveoped was to get hands-on experience. 
+
+
+Recently I got an oppertunity to be the sublead for the markent talent pool and 
+I have been mananging and helping around 20 people in market talent pool 
+while filling Daily Standup Summary sheet and clearing the doubts
+if they have any to the best of my knowledge and I have participated in one of the event
+of VIVACT2021 called TalentTuesday, this event was going on in yammer under the hastang #TalentTuesday.
+
+I have worked on one poc called patient Portal, this was one of the project   
+given to the seniors of angular impact training batch. After the trainings I was put in talent pool after few days in talent pool I realised 
+I don't have that much hands-on experince. since then I have been devloping website using the poc document which was shared during the training. 
+The main objective of the website is for patients to book an appointment with physician.
+The frontend portion is written using angular 12 and the backend is node.js with the framework express.js and for storing data I have used mongoDB.
+
+Since I started developing the frontend of that poc document using angular, I have integrated several features that I learned from trainigs such as 
+using modules to give modularity and lazy loading capabilities,I have used data bindings techiques such String interpolation,Property binding,Event Binding and
+ngModel, I have implemented services to organize and share business logic, data flow and fuctions with differnt components.Implemented different 
+types of directives as well .I have used several RxJS functionalities like Observables at the time of implemnting servies to emit multiple values and 
+have used subjects of rxjs to multicast a flag across different modules .I have also used rxjs operators such as map and filter at the backend for manupulating arrays.
+
+
+I have used nodeJS and the framework expressJS for the backend of poc document. Doing this project helped me familiarise  with buliding a role based system. The role based system has three 
+roles patient, physician & admin. Implemented authentication & encryption using external npm dependencies like passport,jsonwebtoken,passport-jwt & bcrypt. I have used core modules like http
+and many third party modules like mongoose,nodemon,express,cors & dotenv. Created many local modules as well. 
+
+I have used several bootstrap methods for developing the pages of the poc document. Apart from that I have also used SCSS in develpoing the dashboard for patient,physiacian & admin. 
+I have also incorporated angular materials like matrial iocn, material dialog box for pop-up, material tooltip,material table,material sidenav etc.
+Implemenenting all this features helped me familiarise with all this concepts.
+
+I have generic idea about agile methodology. I actively participate on daily stand up call.I am commited to the goal and respect the individuals in stand up call. 
+The code quality is maintained by actively learning market standards , understanding company standards and using tools like jamine and karma for ensuring code quality.
+In the POC created I have reached code quality of 35% and I am trying to reach code quality of 80%.
+
+A while ago I have attented HL7 V2.8 training where I got familiar with how to create/read HL7 messages and acknowledgment. It covered basics of trigger events and messages types. 
+It also covered segment tables, message structures and data types.Apart from that I am planing to get enrolled in FHIR course within CT-UNIVERCT, mainly because FHIR employs 
+RESTful web services and open web technologies
+  
+
+
+
+
+    

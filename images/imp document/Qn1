@@ -1,0 +1,89 @@
+import cx from 'classnames';
+import { Component } from 'react';
+
+export default class LikeDislike extends Component {
+     state = {
+    likes: 100,
+    dislikes: 25,
+    likeActive: false,
+    dislikeActive: false,
+  };
+
+  setDislike() {
+    this.setState({
+      dislikeActive: !this.state.dislikeActive,
+      dislikes: this.state.dislikeActive
+        ? this.state.dislikes - 1
+        : this.state.dislikes + 1,
+    });
+  }
+  setLike() {
+    this.setState({
+      likeActive: !this.state.likeActive,
+      likes: this.state.likeActive
+        ? this.state.likes - 1
+        : this.state.likes + 1,
+    });
+  }
+
+  handleLike() {
+    if (this.state.dislikeActive) {
+      this.setLike();
+      this.setDislike();
+    }
+    this.setLike();
+  }
+
+  handleDislike() {
+    if (this.state.likeActive) {
+      this.setDislike();
+      this.setLike();
+    }
+    this.setDislike();
+  }
+  render() {
+    return (
+      <>
+        {" "}
+        <button
+          className={cx(
+            "like-button",
+            { ["active"]: this.state.likeActive },
+            { ["liked"]: this.state.likeActive }
+          )}
+          onClick={() => this.handleLike()}
+          type="button"
+        >
+          Like | <span className="likes-counter">{this.state.likes}</span>
+        </button>
+        <button
+          className={cx(
+            "dislike-button",
+            { ["active"]: this.state.dislikeActive },
+            { ["disliked"]: this.state.dislikeActive }
+          )}
+          onClick={() => this.handleDislike()}
+          type="button"
+        >
+          Dislike |{" "}
+          <span className="dislikes-counter">{this.state.dislikes}</span>
+        </button>
+        <style>{`
+                .like-button, .dislike-button {
+                    font-size: 1rem;
+                    padding: 5px 10px;
+                    color:   #585858;
+                }
+
+                .liked, .disliked {
+                    font-weight: bold;
+                    color: #1565c0;
+                }
+                .active {  
+                    background-color: white;
+                 }
+            `}</style>
+      </>
+    );
+  }
+}

@@ -1,0 +1,55 @@
+const axios = require('axios');
+
+require('./callMock');
+
+function cityWeather(city) {
+  debugger
+  // Implement the function
+  // You can use console.log for debugging
+  let value = '';
+
+  
+  // API url = `https://example.com/data/2.5/weather?...`
+  // Use q parameter (city) at the end of the url in order to mock data correctly
+  // return new Promise((resolve, reject) => {
+  //     // Implement the function - call http request
+  //         resolve(object_to_be_returned);
+  //     // Implement the function
+  // });
+   if ( city !== "string") {
+    value = "not a string";
+    throw TypeError(value);
+  }
+    if (city.trim() == ""  && city.trim().length === 0 ) {
+    value = "string is empty";
+    throw new Error(value);
+  }
+  url = "https://example.com/data/2.5/weather?q=" + city;
+  return new Promise((resolve, reject) => {
+     
+    axios.get(url)
+      .then(function ( apiValue ) {
+      
+
+        if (apiValue == null || apiValue==undefined  || apiValue=={} && apiValue.temp==undefined) {
+          return ({
+            status: 404,
+            data: {
+              message: "city not found",
+              code: 404
+            }
+          });
+        }
+        resolve( apiValue.data.main );
+      })
+      .catch(function (error) {
+      
+        resolve(error);
+         throw (error);
+      });
+  });
+}
+
+module.exports = {
+  cityWeather
+};
